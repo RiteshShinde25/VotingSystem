@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\VotingAppWeb\obj\Debug\VotingAppWeb.esproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Voting System\VotingAppWeb\obj\Debug\VotingAppWeb.esproj.CoreCompileInputs.cache
